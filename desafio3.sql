@@ -1,0 +1,1 @@
+SELECT primary_key_column FROM products;
