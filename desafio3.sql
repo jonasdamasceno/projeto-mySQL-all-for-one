@@ -1,1 +1,1 @@
-SELECT primary_key_column FROM products;
+SELECT id FROM products;
